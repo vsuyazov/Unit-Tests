@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-06-05T08:38:37" hostname="LAPTOP-HTSR8ELV" time="0.053">
+  <properties/>
+  <testcase name="testCalculator()" classname="CalculatorTest" time="0.013"/>
+  <testcase name="[1] 10, 5, 2" classname="CalculatorTest" time="0.014"/>
+  <testcase name="[2] 30, 6, 5" classname="CalculatorTest" time="0.0"/>
+  <testcase name="[3] 49, 7, 7" classname="CalculatorTest" time="0.001"/>
+  <testcase name="[4] 4, 0, 0" classname="CalculatorTest" time="0.002"/>
+  <testcase name="[1] 5, 25" classname="CalculatorTest" time="0.0"/>
+  <testcase name="[2] 6, 36" classname="CalculatorTest" time="0.0"/>
+  <testcase name="[3] 8, 64" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[Failed. Divide by  ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
